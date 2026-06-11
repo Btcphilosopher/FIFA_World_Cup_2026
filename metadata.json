@@ -1,0 +1,6 @@
+{
+  "name": "FIFA World Cup 2026",
+  "description": "The official mobile application and comprehensive fan experience platform for the FIFA World Cup 2026 in US, Canada, and Mexico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
